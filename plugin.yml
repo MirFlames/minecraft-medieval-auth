@@ -1,6 +1,8 @@
-name: MedievalRegistration
-main: reg.main.MedievalRegistration
+name: SafAuthPlugin
+main: saf.AuthPlugin.Main
 version: 1.0
+api-version: 1.16
 commands:
-  test:
-    usage: /test
+  teleportme:
+    description: Teleports you to your eye position
+    usage: /<command>
