@@ -1,0 +1,6 @@
+name: MedievalRegistration
+main: reg.main.MedievalRegistration
+version: 1.0
+commands:
+  test:
+    usage: /test
